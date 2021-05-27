@@ -1,0 +1,11 @@
+r=5.3
+a=5
+b="boby"
+print(type(r))
+print(type(a))
+print(type(b))
+print(type(True))
+num1=25
+num2=25
+sum=num1+num2
+print(sum)
